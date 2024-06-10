@@ -2,7 +2,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
     height=200 
-    align="center" src="https://github-readme-stats.vercel.app/api?username=dat-pudding&show_icons=true&bg_color=90,000000,990000&text_color=990000&icon_color=555555&title_color=888888&border_color=FF0000&border_radius=10&include_all_commits=true&show=reviews,prs_merged_percentage&hide=stars,prs,contribs <!--&custom_title=My&#160Stats -->"
+    align="center" src="https://github-readme-stats.vercel.app/api?username=dat-pudding&show_icons=true&bg_color=90,000000,990000&text_color=990000&icon_color=555555&title_color=888888&border_color=FF0000&border_radius=10&include_all_commits=true&show=reviews,prs_merged_percentage&hide=stars,prs,contribs&custom_title=My&#160Stats"
     />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
