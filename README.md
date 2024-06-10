@@ -6,7 +6,7 @@
 /a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dat-pudding&layout=compact&exclude_repo=DLLmaker&card_width=320" />
-</a>
+/a>
 
 [![My Favourite Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dat-pudding&layout=compact&exclude_repo=DLLmaker)](https://github.com/dat-pudding/github-readme-stats)
 
