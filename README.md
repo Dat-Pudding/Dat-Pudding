@@ -1,4 +1,3 @@
-
 # Test bed for stat cards
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
