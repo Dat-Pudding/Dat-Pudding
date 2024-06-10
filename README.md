@@ -1,14 +1,14 @@
 # Test bed for stat cards
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
-    height=300 
+    height=250 
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=dat-pudding&custom_title=My&#160Stats&bg_color=90,000000,990000&text_color=990000&icon_color=555555&title_color=888888&border_color=FF0000&border_radius=10&include_all_commits=true&show=prs_merged_percentage&hide=rank,stars,prs,contribs&hide_rank=true&card_width=250"
     />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
-    height=300 
+    height=250 
     align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=dat-pudding&layout=compact&bg_color=90,000000,990000&text_color=990000&icon_color=555555&title_color=888888&border_color=FF0000&border_radius=10&custom_title=My&#160Favourite&#160Languages&exclude_repo=DLLmaker&card_width=250" 
   />
