@@ -10,7 +10,7 @@
   <img 
     height=200 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dat-pudding&layout=compact&bg_color=90,000000,990000&text_color=990000&icon_color=555555&title_color=888888&border_color=FF0000&border_radius=10&custom_title=My&#160Favourite&#160Languages&exclude_repo=DLLmaker&card_width=290" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dat-pudding&layout=compact&bg_color=90,000000,990000&text_color=990000&icon_color=555555&title_color=888888&border_color=FF0000&border_radius=10&custom_title=My&#160Favourite&#160Languages&exclude_repo=DLLmaker&card_width=250" 
   />
 </a>
 
