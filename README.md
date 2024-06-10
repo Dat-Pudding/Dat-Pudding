@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Test bed for stat card
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dat-pudding)](https://github.com/dat-pudding/github-readme-stats&show_icons=true&bg_color=00000000)
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dat-pudding&show_icons=true&bg_color=00000000)](https://github.com/dat-pudding/github-readme-stats)
 
 <!--
 **Dat-Pudding/Dat-Pudding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
