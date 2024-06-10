@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Test bed for stat card
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dat-pudding&show_icons=true&bg_color=90,000000,990000&text_color=990000&icon_color=555555&title_color=888888&border_color=FF0000&border_radius=10&include_all_commits=true&hide=stars,prs)](https://github.com/dat-pudding/github-readme-stats)
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dat-pudding&show_icons=true&bg_color=90,000000,990000&text_color=990000&icon_color=555555&title_color=888888&border_color=FF0000&border_radius=10&include_all_commits=true&hide=stars,prs,contribs)](https://github.com/dat-pudding/github-readme-stats)
 
 <!--
 **Dat-Pudding/Dat-Pudding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
