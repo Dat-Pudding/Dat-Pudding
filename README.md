@@ -3,7 +3,7 @@
 # Test bed for stat card
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dat-pudding&show_icons=true&bg_color=90,000000,990000&text_color=990000&icon_color=555555&title_color=888888&border_color=FF0000&border_radius=10&include_all_commits=true&show=reviews,prs_merged_percentage&hide=stars,prs,contribs&rank_icon=percentile)](https://github.com/dat-pudding/github-readme-stats)
 
-[![My Favourite Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dat-pudding&layout=compact&hide=javascript,html,cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![My Favourite Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dat-pudding&layout=compact&exlude_repo=dllmaker)](https://github.com/dat-pudding/github-readme-stats)
 <!--
 **Dat-Pudding/Dat-Pudding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
