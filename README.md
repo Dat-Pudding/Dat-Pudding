@@ -19,13 +19,14 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 </a>
 
 ## Recent Projects
+> All projects I'm currently working on or have recently worked on
+
 |Type|Repository|
 |----|----------|
 |owned|[![PhotoCalc](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=PhotoCalc&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10)](https://github.com/Dat-Pudding/PhotoCalc)|
 
 ## Where I've contributed
-worked on the translation for ai voice over version in german
-
+> All projects where I've contributed at some point
 
 |Project|Contribution| 
 |-------|------------| 
