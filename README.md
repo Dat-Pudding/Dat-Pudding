@@ -1,4 +1,8 @@
-# Test bed for stat cards
+# My Progression
+Hello there,
+this README serves as a sort of summary for my overall progression mostly in `C` or `C-based` languages like `C#` or `C++`.
+
+## Overview
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
     height=225 
@@ -13,6 +17,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=dat-pudding&layout=compact&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&custom_title=My%20Favourite%20Languages&hide=cmake,makefile&card_width=200" 
   />
 </a>
+
+## Recent Projects
 
 <!--
 **Dat-Pudding/Dat-Pudding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
