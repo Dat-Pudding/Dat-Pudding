@@ -23,6 +23,7 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 
 ## Where I've contributed
 worked on the translation for ai voice over version in german
+
 |______________|
 |Project|Action|
 |_______|______|
