@@ -23,7 +23,7 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 
 ## Where I've contributed
 3b1b/captions - worked on the translation for ai voice over version in german 
-[![3b1b/captions](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![3b1b/captions](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/3b1b/captions)
 
 <!--
 **Dat-Pudding/Dat-Pudding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
