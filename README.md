@@ -19,7 +19,7 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 </a>
 
 ## Recent Projects
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=PhotoCalc)](https://github.com/anuraghazra/github-readme-stats
 <!--
 **Dat-Pudding/Dat-Pudding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
