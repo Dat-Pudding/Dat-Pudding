@@ -18,10 +18,11 @@ this README serves as a sort of summary for my overall progression mostly in `C`
   />
 </a>
 
-## Recent Projects
+## My Recent Projects
 [![PhotoCalc](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=PhotoCalc&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10)](https://github.com/Dat-Pudding/PhotoCalc)
 
-
+## Where I've contributed
+3b1b/captions - worked on the translation for ai voice over version in german 
 
 <!--
 **Dat-Pudding/Dat-Pudding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
