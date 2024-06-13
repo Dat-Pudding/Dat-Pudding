@@ -22,20 +22,20 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 > All projects I'm currently working on or have recently worked on
 
 |Type|Repository|
-|----|----------|
+|:--:|----------|
 |owned|[![PhotoCalc](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=PhotoCalc&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10)](https://github.com/Dat-Pudding/PhotoCalc)|
 
 ## Where I've contributed
 > All projects where I've contributed at some point
 
 |Project|Contribution| 
-|-------|------------| 
+|-------|:----------:| 
 |[![3b1b/captions](https://github-readme-stats.vercel.app/api/pin/?username=3b1b&repo=captions&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&show_owner=true)](https://github.com/3b1b/captions)| translating/reviewing | 
 
 ## My other projects
 > Paused, discontinued, finished and other repos I won't work on too soon or at all in the discontinued cases
 
 |Status|Repository|
-|------|----------|
+|:----:|----------|
 |⏸️ paused|[![Keyboard-Commander](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=Keyboard-Commander&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&show_owner=true)](https://github.com/Dat-Pudding/Keyboard-Commander)|
 |⏹️ finished|[![DLLmaker](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=DLLmaker&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&show_owner=true)](https://github.com/Dat-Pudding/DLLmaker)|
