@@ -23,7 +23,7 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 
 > All projects I'm currently working on or have recently worked on
 
-|Type|Repository|
+|Type/Status|Repository|
 |:--:|----------|
 |✔️▶️<br>owned<br>&<br>active|[![PhotoCalc](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=PhotoCalc&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10)](https://github.com/Dat-Pudding/PhotoCalc)|
 </details>
