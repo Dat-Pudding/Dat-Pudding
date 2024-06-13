@@ -37,5 +37,5 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 
 |Status|Repository|
 |:----:|----------|
-|⏯️ paused|[![Keyboard-Commander](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=Keyboard-Commander&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&show_owner=true)](https://github.com/Dat-Pudding/Keyboard-Commander)|
-|🚫 discontinued|[![DLLmaker](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=DLLmaker&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&show_owner=true)](https://github.com/Dat-Pudding/DLLmaker)|
+|⏯️<br>paused|[![Keyboard-Commander](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=Keyboard-Commander&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&show_owner=true)](https://github.com/Dat-Pudding/Keyboard-Commander)|
+|🚫<br>discontinued|[![DLLmaker](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=DLLmaker&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&show_owner=true)](https://github.com/Dat-Pudding/DLLmaker)|
