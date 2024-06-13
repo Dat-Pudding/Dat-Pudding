@@ -1,6 +1,6 @@
 # My Progression
 Hello there,
-this README serves as a sort of summary for my overall progression mostly in `C` or `C-based` languages like `C#` or `C++`.
+this README serves as a sort of summary for my overall progression mostly in `C` or `C-based` languages like `C#` or `C++`.[^credit]
 
 ## Overview
 <a href="https://github.com/anuraghazra/github-readme-stats">
