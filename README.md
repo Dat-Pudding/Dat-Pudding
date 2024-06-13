@@ -19,7 +19,7 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 </a>
 
 <details>
-<summary>## Recent Projects</summary>
+<summary><h1>Recent Projects</h1></summary>
 <br>
 > All projects I'm currently working on or have recently worked on
 
