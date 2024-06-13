@@ -41,4 +41,4 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 |🚫<br>discontinued|[![DLLmaker](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=DLLmaker&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&show_owner=true)](https://github.com/Dat-Pudding/DLLmaker)|
 
 
-<sub><sub>powered by [anuraghazra/read-me-stats](https://github.com/anuraghazra/github-readme-stats)</sub></sub>
+<sub><sub>Graphics powered by [anuraghazra/read-me-stats](https://github.com/anuraghazra/github-readme-stats)</sub></sub>
