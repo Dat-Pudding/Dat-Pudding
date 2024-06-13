@@ -19,8 +19,8 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 </a>
 
 <details>
-<summary><h2>Recent Projects</h2></summary>
-<br>
+<summary><h2> Recent Projects</h2></summary>
+
 > All projects I'm currently working on or have recently worked on
 
 |Type|Repository|
