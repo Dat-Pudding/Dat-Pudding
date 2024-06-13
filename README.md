@@ -7,7 +7,7 @@ this README serves as a sort of summary for my overall progression mostly in `C`
   <img 
     height=225 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=dat-pudding&custom_title=My%20Stats&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&include_all_commits=true&show=prs_merged_percentage&hide_rank=true&hide=prs,stars"
+    src="https://github-readme-stats.vercel.app/api?username=dat-pudding&custom_title=My%20Stats&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&include_all_commits=true&show=prs_merged_percentage&hide_rank=true&hide=prs"
     />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
