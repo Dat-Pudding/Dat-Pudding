@@ -1,8 +1,8 @@
-# My Progression
+## My Progression
 Hello there,
 this README serves as a sort of summary for my overall progression mostly in `C` or `C-based` languages like `C#` or `C++`.
 
-## Overview
+### Overview
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
     height=225 
@@ -19,7 +19,7 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 </a>
 
 <details>
-<summary><h2> Recent Projects</h2></summary>
+<summary><h3> Recent Projects</h3></summary>
 
 > All projects I'm currently working on or have recently worked on
 
@@ -30,7 +30,7 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 
 
 <details>
-<summary><h2> Where I've contributed</h2></summary>
+<summary><h3> Where I've contributed</h3></summary>
 
 > All projects where I've contributed at some point
 
