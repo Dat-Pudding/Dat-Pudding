@@ -1,7 +1,7 @@
 ## My Progression
 Hello there,
 this README serves as a sort of summary for my overall progression mostly in `C` or `C-based` languages like `C#` or `C++`.
-I'm also intrigued by dabbling in `F#` to try out another paradigm besides OOP.
+I'm also intrigued by dabbling in `COBOL` for it's intriguing almost a bit BASIC-like but more readable syntax and the `HTML/CSS/JS` stack to become able to at least produce simple web apps and get started at network stuff (with as little as possible JS tho)
 
 ### Overview
 <a href="https://github.com/anuraghazra/github-readme-stats">
