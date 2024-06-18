@@ -51,4 +51,4 @@ this README serves as a sort of summary for my overall progression mostly in `C`
 </details>
 
 
-<sub><sub>• Graphs powered by [anuraghazra/read-me-stats](https://github.com/anuraghazra/github-readme-stats)</sub></sub>
+<sub> Graphs powered by [anuraghazra/read-me-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
