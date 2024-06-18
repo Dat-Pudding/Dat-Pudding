@@ -1,6 +1,7 @@
 ## My Progression
 Hello there,
 this README serves as a sort of summary for my overall progression mostly in `C` or `C-based` languages like `C#` or `C++`.
+I'm also intrigued by dabbling in `F#` to try out another paradigm besides OOP.
 
 ### Overview
 <a href="https://github.com/anuraghazra/github-readme-stats">
