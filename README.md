@@ -52,4 +52,5 @@ I'm also intrigued by dabbling in `COBOL` for it's interesting almost a bit BASI
 </details>
 
 
-<sub> out Graphs powered by [anuraghazra/read-me-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
+W<sub>in</sub> W<sub>out</sub>
+<sub>Graphs powered by [anuraghazra/read-me-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
