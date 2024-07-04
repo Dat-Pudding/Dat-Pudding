@@ -1,7 +1,7 @@
 ## My Progression
 Hello there,
 this README serves as a sort of summary for my overall progression mostly in `C` or `C-based` languages like `C#` or `C++`.
-I'm also intrigued by dabbling in `COBOL` for it's interesting almost a bit BASIC-like but more readable syntax and the `HTML/CSS/JS` stack to become able to at least produce simple interactive web sites/apps and get started at network code and UI/UX design (with as little as possible JS tho since maximum compatibility of all my stuff is my goal and priority)
+I'm also intrigued by dabbling in `COBOL` for it's interesting almost a bit BASIC-like but more readable syntax and the `HTML/CSS/JS` stack to become able to at least produce simple interactive web sites/apps and get started at network code and UI/UX design (with as little as possible `JS` tho since maximum compatibility of all my stuff is my goal and priority)
 
 ### Overview
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -27,6 +27,7 @@ I'm also intrigued by dabbling in `COBOL` for it's interesting almost a bit BASI
 |Type/Status|Repository|
 |:--:|----------|
 |✔️▶️<br>owned<br>&<br>active|[![PhotoCalc](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=PhotoCalc&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10)](https://github.com/Dat-Pudding/PhotoCalc)|
+|✔️▶️<br>owned<br>&<br>active|[![EucliTD](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=EucliTD&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10)](https://github.com/Dat-Pudding/EucliTD)|
 </details>
 
 
