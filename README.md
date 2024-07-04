@@ -51,6 +51,4 @@ I'm also intrigued by dabbling in `COBOL` for it's interesting almost a bit BASI
 |🚫<br>discontinued|[![DLLmaker](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=DLLmaker&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10)](https://github.com/Dat-Pudding/DLLmaker)|
 </details>
 
-
-W<sub>in</sub> W<sub>out</sub>
 <sub>Graphs powered by [anuraghazra/read-me-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
