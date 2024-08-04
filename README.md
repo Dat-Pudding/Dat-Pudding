@@ -1,7 +1,7 @@
 ## My Progression
 Hello there,
 this README serves as a sort of summary for my overall progression mostly in `C` or `C-based` languages like `C#` or `C++`.
-I'm also intrigued by dabbling in the `HTML/CSS/JS` stack to become able to at least produce simple interactive web sites/apps and get started at network code and UI/UX design (with as little as possible `JS` tho since maximum compatibility of all my stuff is my goal and priority)
+I'm also intrigued by dabbling in the `HTML/CSS/JS` stack to become able to at least produce simple interactive web sites/apps and get started at network code and UI/UX design.
 
 ### Overview
 <a href="https://github.com/anuraghazra/github-readme-stats">
