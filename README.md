@@ -38,7 +38,7 @@ I'm also intrigued by dabbling in the `HTML/CSS/JS` stack to become able to at l
 
 |Project|Contribution|Active|
 |-------|:----------:|:----:|
-|[![3b1b/captions](https://github-readme-stats.vercel.app/api/pin/?username=3b1b&repo=captions&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&show_owner=true)](https://github.com/3b1b/captions)|translating/reviewing|✅|
+|[![3b1b/captions](https://github-readme-stats.vercel.app/api/pin/?username=3b1b&repo=captions&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&show_owner=true)](https://github.com/3b1b/captions)|translating/reviewing|🚫|
 </details>
 
 <details>
