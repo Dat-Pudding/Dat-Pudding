@@ -8,7 +8,7 @@ I'm also intrigued by dabbling in the `HTML/CSS/JS` stack to become able to at l
   <img 
     height=225 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=dat-pudding&custom_title=My%20Stats&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&include_all_commits=true&show=prs_merged_percentage&hide_rank=false&hide=prs,stars"
+    src="https://github-readme-stats.vercel.app/api?username=dat-pudding&custom_title=My%20Stats&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10&include_all_commits=false&show=prs_merged_percentage&hide_rank=false&hide=prs,stars"
     />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
