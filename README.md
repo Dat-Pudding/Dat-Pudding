@@ -28,6 +28,7 @@ I'm also intrigued by dabbling in the `HTML/CSS/JS` stack to become able to at l
 |:--:|----------|
 |✔️▶️<br>owned<br>&<br>active|[![PhotoCalc](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=PhotoCalc&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10)](https://github.com/Dat-Pudding/PhotoCalc)|
 |✔️▶️<br>owned<br>&<br>active|[![EucliTD](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=EucliTD&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10)](https://github.com/Dat-Pudding/EucliTD)|
+|✔️▶️<br>owned<br>&<br>active|[![EucliTD](https://github-readme-stats.vercel.app/api/pin/?username=dat-pudding&repo=LogCleaner&bg_color=90,000000,990000&text_color=888888&icon_color=555555&title_color=BBBBBB&border_color=FF0000&border_radius=10)](https://github.com/Dat-Pudding/EucliTD)|
 </details>
 
 
