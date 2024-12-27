@@ -1,6 +1,6 @@
 ## My Progression
 Hello there,
-this README serves as a sort of summary for my overall progression mostly in `C` or `C-based` languages like `C#` or `C++`.
+this README serves as a sort of summary for my overall progression mostly in `C-style` languages like `C#` or `C++`.
 I'm also intrigued by dabbling in the `HTML/CSS/JS` stack to become able to at least produce simple interactive web sites/apps and get started at network code and UI/UX design.
 
 ### Overview
